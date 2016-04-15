@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="context_menu_title">Select The Action</string>
+    <string name="context_menu_item_call">Call</string>
+    <string name="context_menu_item_sms">Send SMS</string>
+</resources>
